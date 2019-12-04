@@ -64,3 +64,70 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+*{
+	box-sizing: border-box;
+	padding:0;
+	margin:0;
+	max-width:100%;
+	
+}
+body{
+	margin: 0 auto;
+	width: 1000px
+}
+.top{
+	margin-bottom:4%;
+}
+.header{
+	border: 2px solid red;
+	
+}
+.navagation a{
+	padding: 2%;
+	margin: 10px;
+}
+.beforeimg{
+	
+	border-top: 3px solid black;
+	margin-top: 2.5%;
+	
+}
+.features{
+	display: inline-block;
+	width: 49%;
+	padding-top:2%;
+	;
+	
+}
+.about{
+	display: inline-block;
+	width: 50%;
+	
+	
+	
+	
+}
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
