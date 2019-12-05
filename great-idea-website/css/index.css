@@ -64,3 +64,212 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+  @keyframes pulsetwo {
+	0% {
+	  color: rgb(9, 1, 51);
+	}
+	100% {
+	  color: rgb(255, 0, 179);
+	}
+  }
+  h3{
+	
+  }
+
+*{
+	
+	box-sizing: border-box;
+	padding:0;
+	margin:0;
+	max-width:100%;
+	
+}
+
+
+body{
+	margin: 0 auto;
+	width: 1000px
+}
+.top{
+	position:fixed;
+	margin-bottom:6%;
+	background: lightskyblue;
+	padding-bottom: 20px;
+
+}
+
+	
+.navagation{
+	padding-bottom: 20px;
+	overflow: hidden;
+	background-color: rgb(53, 45, 45);
+	position: fixed;
+	top: 0;
+	width: 40%;
+	
+}
+
+.navagation a:hover{
+	background: rgb(51, 53, 167);
+  	color: black;
+}
+.navagation a{
+	
+	padding: 2%;
+	margin: 10px;
+	color: grey;
+	text-decoration: none;
+}
+.header{
+	
+	
+}
+
+	
+
+.innovation{
+	
+	display: inline-block;
+	font-family: 'Bangers', cursive;
+	font-size: 75px ;
+	width: 20%;
+	text-align: center;
+	margin-bottom: 75px;
+	margin-left: 100px;
+	
+	margin-right: 200px;
+	
+
+	
+	
+}
+.imagetwo{
+	display: inline-block;
+	
+	
+}
+.getstarted{
+	font-size: 20px;
+	padding: 5px 50px 5px 50px;
+	display: inline-block;
+	border: .5px solid black;
+	font-family: none;
+}
+
+
+
+
+.beforeimg{
+	
+	border-top: 3px solid black;
+	margin-top: 2.5%;
+	
+}
+
+.features{
+	display: inline-block;
+	width: 40%;
+	padding-top:2%;
+	margin-bottom: 30px;
+	margin-left: 50px;
+	
+}
+.about{
+	display: inline-block;
+	width: 40%;
+	margin-left: 50px;
+}
+
+.imagethree{
+	display: inline-block;
+	margin-left: 50px;
+	margin-right: auto;
+	width: 100%;
+}
+
+.afterimage{
+	margin-top: px;
+	margin-bottom: 20px;
+	border-bottom: 2px solid black;
+	padding: 50px
+	
+	
+}
+
+.services{
+	display: inline-block;
+	
+	width: 33%
+	
+}
+.product{
+	display: inline-block;
+	
+	width: 33%
+	
+}
+.vison{
+	display: inline-block;
+
+	width: 33%
+	
+}
+.strech{
+	margin-bottom: 50px;
+	border-bottom: 2px solid black;
+	font-family: 'Calligraffitti', cursive;
+	
+}
+.employees{
+	
+	display: inline-block;
+	width:50%;
+	margin-bottom: 20px;
+	
+}
+.subsidiaries{
+	
+
+	display: inline-block;
+	width: 49%;
+}
+
+
+.address{
+	display: inline-block;
+	width:15%;
+}
+.street{
+	margin-bottom: 20px
+}
+.phone{
+	margin-bottom: 20px
+}
+.email{
+	margin-bottom: 20px;
+
+}
+
+footer{
+	text-align: center;
+}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
