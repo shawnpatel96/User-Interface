@@ -182,7 +182,7 @@ body{
 }
 
 .imagethree{
-	display: block;
+	display: inline-block;
 	margin-left: 50px;
 	margin-right: auto;
 	width: 100%;
