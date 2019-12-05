@@ -92,7 +92,7 @@ body{
 	width: 1000px
 }
 .top{
-	positon:fixed;
+	position:fixed;
 	margin-bottom:6%;
 	background: lightskyblue;
 	padding-bottom: 20px;
